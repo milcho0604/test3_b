@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "로미오",
+      "price": 10000,
+      "author": "김창현",
+      "publisher": "NoWatch",
+      "category": "과학"
+    },
+    {
+      "id": 2,
+      "title": "줄리엣",
+      "price": "20000000",
+      "author": "김다인",
+      "publisher": "NoWatch",
+      "category": "애니"
+    },
+    {
+      "id": 3,
+      "title": "과학이란?",
+      "price": 15000,
+      "author": "프랑켄슈",
+      "publisher": "SunYang",
+      "category": "과학"
+    },
+    {
+      "id": 4,
+      "title": "환둥이의 일상",
+      "price": 5000,
+      "author": "짱구",
+      "publisher": "SunYang",
+      "category": "과학"
+    }
+  ]
+}
